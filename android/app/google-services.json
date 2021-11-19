@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "16093574262",
+    "project_id": "trobifybykubo",
+    "storage_bucket": "trobifybykubo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16093574262:android:b269a1c47d41a5f6d09b57",
+        "android_client_info": {
+          "package_name": "com.kubosd.trobify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16093574262-n81u98rnks6ocuuohg9pfnnv6qfnb5m9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACv65QHJ8AKotfIUVPNe_RRmMVU52jxVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16093574262-n81u98rnks6ocuuohg9pfnnv6qfnb5m9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
